@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# APS II - Ruby on Rails
 
-Things you may want to cover:
+Trabalho de `Projeto de Sistemas em Internet III` como objetivo:
 
-* Ruby version
+1. A aplicação deve contar com um  banco de dados dos produtos.
+2. A aplicação deve conter 3 rotas para diferentes  páginas  dos fornecedores.
+3. O  usuário  deve  poder  escolher  um  objeto  ou  mais  de  um  e  em  algum  campo  deve  ser retornado a soma dos preços ou o valor total de uma possivel compra.
+4. O sistema  deve gerar um  log externo  ou um txt na pasta do projeto
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+**Professor:** Angelo Cnop
