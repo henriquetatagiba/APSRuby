@@ -1,0 +1,2 @@
+class FornecedoresController < ApplicationController
+end

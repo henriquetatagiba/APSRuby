@@ -1,0 +1,15 @@
+<% if flash[:notice] %>
+<div class="alert alert-success" role="alert"><%= flash[:notice] %></div>
+<% end %>
+
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<td>Nome</td>
+			<td>Descrição</td>
+		</tr>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+<a href="/forcecedores/new"><button class="btn btn-success">Adicionar novo fornecedor</button></a>
