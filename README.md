@@ -1,5 +1,3 @@
-== README
-
 # APS II - Ruby on Rails
 
 Trabalho de `Projeto de Sistemas em Internet III` como objetivo:
